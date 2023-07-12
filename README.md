@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **tanuilelan@gmail.com**
 
-- ⚡ Fun fact **People say I have some degree of autism**
+- ⚡ Fun fact **I have no fun fact sadly**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
