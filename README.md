@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/tanuilelan" target="blank"><img src="https://img.shields.io/twitter/follow/tanuilelan?logo=twitter&style=for-the-badge" alt="tanuilelan" /></a> </p>
 
-- 🌱 I’m currently learning **Python and Java**
+- 🌱 I’m currently learning **Python and Javascript**
 
-- 💬 Ask me about **Java, C, C++ and Python**
+- 💬 Ask me about **Javascript, CSS/HTML and Python**
 
 - 📫 How to reach me **tanuilelan@gmail.com**
 
