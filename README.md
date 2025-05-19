@@ -54,3 +54,5 @@
 ![Andrewtanui's Stats](https://github-readme-stats.vercel.app/api?username=Andrewtanui&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![Andrewtanui's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Andrewtanui&theme=vue-dark&hide_border=true)
 ![Andrewtanui's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrewtanui&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Andrewtanui&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+
