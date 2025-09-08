@@ -9,7 +9,7 @@
 
 ---
 
-- 🔭 I’m currently learning **Node.js**
+- 🔭 I’m currently learning **C#**
 - 🌱 Strong skills in **Python, React, HTML, CSS**
 - 🎯 Interested in **Machine Learning** and **Backend Development**
 - 💬 Ask me about **Python, React, and modern web development**
