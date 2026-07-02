@@ -17,30 +17,36 @@
 
 ## 🚀 About Me
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Andrew Tanui"
-        self.role = "Full-Stack Developer"
-        self.location = "Kenya"
-        self.current_project = "KALRO-WEB"
-        self.organization = "Kenya Agricultural and Livestock Research Organization"
-        self.learning = ["Flutter", "React Native"]
-        self.expertise = ["Flask", "React", "Python", "JavaScript"]
-    
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together.")
-
-me = Developer()
-me.say_hi()
+```typescript
+const andrew = {
+  name: "Andrew Tanui",
+  role: "Full-Stack Developer",
+  location: "Kenya",
+  currentProjects: [
+    "NSIF South Sudan — Government social insurance platform + CRM",
+    "Northlink Consulting — East Africa consulting firm website",
+    "KALRO-WEB — Kenya Agricultural and Livestock Research Organization",
+  ],
+  expertise: [
+    "Next.js", "TypeScript", "React",
+    "Supabase", "PostgreSQL", "Python", "Flask"
+  ],
+  learning: ["Flutter", "React Native"],
+  funFact: "I've written more RLS policies than I've had hot meals this week."
+};
 ```
+
+---
 
 ## 💼 What I'm Up To
 
-- 🔭 **Current Project:** Building the Kenya Agricultural and Livestock Research Organization website
-- 🌱 **Learning Journey:** Diving deep into mobile development with Flutter & React Native
-- 💡 **Open to:** Collaborating on innovative web and mobile projects
-- 📫 **Reach me:** Check out my social links above!
+- 🏛️ **NSIF South Sudan** — Building a full-stack government platform for the National Social Insurance Fund: public website, member self-registration portal, employer portal with Pesapal payment integration, and an internal staff CRM with role-based access, document verification, and automated NSIF number generation
+- 🌍 **Northlink Consulting** — Revamping a consulting firm's website for the East & Central Africa market with a full component library in Next.js + TypeScript
+- 🌱 **KALRO-WEB** — Official website for Kenya's national agricultural research body
+- 📱 **Learning:** Flutter & React Native for cross-platform mobile development
+- 💡 **Open to:** Collaborating on govtech, fintech, and impactful web/mobile projects
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -49,18 +55,26 @@ me.say_hi()
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 ### Frontend
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 ### Backend & Database
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### CMS & Integrations
+![Sanity](https://img.shields.io/badge/-Sanity-F03E2F?style=flat-square&logo=sanity&logoColor=white)
+![Nodemailer](https://img.shields.io/badge/-Nodemailer-22B573?style=flat-square&logo=gmail&logoColor=white)
+![Pesapal](https://img.shields.io/badge/-Pesapal-FF6600?style=flat-square&logoColor=white)
 
 ### ML & Data Science
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
@@ -76,6 +90,39 @@ me.say_hi()
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
 
+---
+
+## 🏗️ Featured Work
+
+### 🏛️ NSIF South Sudan Platform
+> Government-grade social insurance platform for the Republic of South Sudan
+
+- **Public website** with Sanity CMS, i18n (English/Arabic), and full accessibility
+- **Member self-registration portal** with multi-step form, document upload, and email verification
+- **Employer portal** with Pesapal payment integration for monthly contribution payments
+- **Staff CRM** with role-based access control, document verification via Supabase Storage signed URLs, automated NSIF number generation (Luhn check digit), and full audit logging
+- **Stack:** Next.js 16 · TypeScript · Supabase · PostgreSQL · Tailwind · Sanity · Nodemailer · Pesapal
+
+---
+
+### 🌍 Northlink Consulting Website
+> Website revamp for a specialist consulting firm operating across East & Central Africa
+
+- Full design system built from scratch (Red / White / Black editorial palette)
+- Component library in Next.js + TypeScript with CSS Modules
+- 3-slide hero carousel with per-slide headlines, Ken Burns effect, and transparent-to-solid nav
+- Editorial-style pages: About, Services, Our Work, Contact with full form validation and success states
+- **Stack:** Next.js · TypeScript · CSS Modules · Cormorant Garamond + Syne typography
+
+---
+
+### 🌱 KALRO-WEB
+> Official website for the Kenya Agricultural and Livestock Research Organization
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Andrewtanui&repo=KALRO-WEB&theme=tokyonight)](https://github.com/Andrewtanui)
+
+---
+
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -86,6 +133,8 @@ me.say_hi()
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Andrewtanui&theme=tokyonight" alt="Andrewtanui" />
 </div>
+
+---
 
 ## 📈 Contribution Activity
 
@@ -103,22 +152,11 @@ me.say_hi()
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Andrewtanui&theme=tokyonight" height="180em" />
 </div>
 
-## 🎯 Featured Projects
-
-<div align="center">
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Andrewtanui&repo=KALRO-WEB&theme=tokyonight)](https://github.com/Andrewtanui)
-  
-  <p>
-    <a href="https://github.com/Andrewtanui?tab=repositories">
-      <img src="https://img.shields.io/badge/-View_All_Projects-000000?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-  </p>
-</div>
+---
 
 ## 💬 Let's Connect!
 
-I'm always interested in collaborating on innovative projects, discussing tech trends, or just having a chat about development. Feel free to reach out!
+I'm always interested in collaborating on impactful projects — especially in govtech, fintech, and anything that solves real problems for real people across Africa. Feel free to reach out!
 
 <div align="center">
   
