@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
   
-  # 👋 Hello, I'm Andrew Tanui
+  #  Hello, I'm Andrew Tanui
   
   ### Full-Stack Developer | ML Enthusiast | Open Source Contributor
   
@@ -15,7 +15,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 ```typescript
 const andrew = {
@@ -38,17 +38,17 @@ const andrew = {
 
 ---
 
-## 💼 What I'm Up To
+## What I'm Up To
 
-- 🏛️ **NSIF South Sudan** — Building a full-stack government platform for the National Social Insurance Fund: public website, member self-registration portal, employer portal with Pesapal payment integration, and an internal staff CRM with role-based access, document verification, and automated NSIF number generation
-- 🌍 **Northlink Consulting** — Revamping a consulting firm's website for the East & Central Africa market with a full component library in Next.js + TypeScript
-- 🌱 **KALRO-WEB** — Official website for Kenya's national agricultural research body
-- 📱 **Learning:** Flutter & React Native for cross-platform mobile development
-- 💡 **Open to:** Collaborating on govtech, fintech, and impactful web/mobile projects
+- **NSIF South Sudan** — Building a full-stack government platform for the National Social Insurance Fund: public website, member self-registration portal, employer portal with Pesapal payment integration, and an internal staff CRM with role-based access, document verification, and automated NSIF number generation
+- **Northlink Consulting** — Revamping a consulting firm's website for the East & Central Africa market with a full component library in Next.js + TypeScript
+- **KALRO-WEB** — Official website for Kenya's national agricultural research body
+- **Learning:** Flutter & React Native for cross-platform mobile development
+-   **Open to:** Collaborating on govtech, fintech, and impactful web/mobile projects
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -92,9 +92,9 @@ const andrew = {
 
 ---
 
-## 🏗️ Featured Work
+## Featured Work
 
-### 🏛️ NSIF South Sudan Platform
+### NSIF South Sudan Platform
 > Government-grade social insurance platform for the Republic of South Sudan
 
 - **Public website** with Sanity CMS, i18n (English/Arabic), and full accessibility
@@ -105,7 +105,7 @@ const andrew = {
 
 ---
 
-### 🌍 Northlink Consulting Website
+### Northlink Consulting Website
 > Website revamp for a specialist consulting firm operating across East & Central Africa
 
 - Full design system built from scratch (Red / White / Black editorial palette)
@@ -116,14 +116,14 @@ const andrew = {
 
 ---
 
-### 🌱 KALRO-WEB
+### KALRO-WEB
 > Official website for the Kenya Agricultural and Livestock Research Organization
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Andrewtanui&repo=KALRO-WEB&theme=tokyonight)](https://github.com/Andrewtanui)
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andrewtanui&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -136,7 +136,7 @@ const andrew = {
 
 ---
 
-## 📈 Contribution Activity
+## Contribution Activity
 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Andrewtanui&theme=tokyonight" />
@@ -154,7 +154,7 @@ const andrew = {
 
 ---
 
-## 💬 Let's Connect!
+## Let's Connect!
 
 I'm always interested in collaborating on impactful projects — especially in govtech, fintech, and anything that solves real problems for real people across Africa. Feel free to reach out!
 
